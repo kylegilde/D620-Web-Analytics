@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04bbc660-8933-4e71-ad35-ca1a20f96bba" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/multi-class-text-classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/multi-class-text-classification.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,12 +35,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4249" />
+          <entry key="py" value="4282" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="4248" />
+          <entry key="Python" value="4281" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
@@ -63,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/multi-class-text-classification.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="28" />
+              <selected id="34" />
             </state>
           </provider>
         </entry>
@@ -268,7 +266,7 @@
     <entry file="file://$PROJECT_DIR$/multi-class-text-classification.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="28" />
+          <selected id="34" />
         </state>
       </provider>
     </entry>
